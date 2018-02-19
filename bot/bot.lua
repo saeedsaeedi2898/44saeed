@@ -111,7 +111,7 @@ An advanced administration bot based on https://valtman.name/telegram-cli
 》@saeed2829《
 
 》saeed2829 :
-》http://saeed2829-Dev.iR
+》https://t.me/saeed2829
 ]],
   }
 	serialize_to_file(config, './data/config.lua')
