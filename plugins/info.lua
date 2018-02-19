@@ -1,4 +1,4 @@
---Begin info.lua By @SoLiD
+--Begin info.lua By @saeed2829
 local Solid = 157059515
 local function setrank(msg, user_id, value,chat_id)
   local hash = nil
@@ -238,4 +238,4 @@ return {
 },
 	run = run
 }
---This Is info.lua for BDReborn Source :)
+--This Is info.lua for 44saeed Source :)
